@@ -1,2 +1,2 @@
-# L-gica-de-program-o
+# Logica de programacao
 Exemplos para ajudar no estudo de lógica
